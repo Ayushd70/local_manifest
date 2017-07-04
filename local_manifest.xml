@@ -2,11 +2,11 @@
 <manifest>
 
     <!-- local -->
-    <project path="device/xiaomi/wt88047" name="NeoDarkness/android_device_xiaomi_wt88047" remote="github" revision="android-7.1" />
-    <project path="vendor/xiaomi" name="NeoDarkness/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
+    <project path="device/xiaomi/wt88047" name="LineageOS/android_device_xiaomi_wt88047" remote="github" revision="android-cm-14.1" />
+    <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
 
     <!-- lineageos -->
-    <project path="kernel/wingtech/msm8916" name="LineageOS/android_kernel_wingtech_msm8916" remote="github" revision="cm-14.1" />
+    <project path="kernel/wingtech/msm8916" name="Ayushd70/Warrior_redmi2" remote="github" revision="cm-14.1" />
 
     <!-- omnirom -->
     <project path="external/stlport" name="omnirom/android_external_stlport" remote="github" revision="android-7.0" />
