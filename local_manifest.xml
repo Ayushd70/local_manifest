@@ -11,7 +11,4 @@
     <!-- vendor -->
     <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
 
-    <!--extras-->
-    <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1" />
-
 </manifest>
