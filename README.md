@@ -1,19 +1,19 @@
-OmniROM For Xiaomi Redmi 2/Prime/Pro
+DirtyUnicorns For Xiaomi Redmi 2/Prime/Pro
 ======================================
 
 Initializing:
 
 First, create a folder to hold the source code: 
 
-	mkdir ~/omni
+	mkdir ~/du
 
 Next, naviate into that new directory via the terminal:
 
-	cd ~/omni
+	cd ~/du
 
 To initialize your local repository using the Turbo ROM trees, use this command:
 
-	repo init -u git://github.com/omnirom/android.git -b android-7.1
+	repo init -u http://github.com/DirtyUnicorns/android_manifest.git -b n7x-caf
 
 Also add the local manifests:
 
@@ -32,7 +32,7 @@ _Building from source_
 
 First:
 
-	cd ~/omni
+	cd ~/du
 
 Second:
 
