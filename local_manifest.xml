@@ -2,15 +2,15 @@
 <manifest>
 
     <!-- device tree -->
-    <project path="device/xiaomi/wt88047" name="NeoDarkness/android_device_xiaomi_wt88047" remote="github" revision="cm-14.1" />
+    <project path="device/wingtech/wt88047" name="TeamDarkness-Devices/android_device_wingtech_wt88047" remote="github" revision="n-mr2" />
     <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
     <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
 
     <!-- kernel -->
-    <project path="kernel/wingtech/msm8916" name="LineageOS/android_kernel_wingtech_msm8916" remote="github" revision="cm-14.1" />
+    <project path="kernel/wingtech/msm8916" name="Ayushd70/Warrior_redmi2" remote="github" revision="n" />
 
     <!-- vendor -->
-    <project path="vendor/xiaomi" name="NeoDarkness/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
+    <project path="vendor/xiaomi" name="TheMuppets/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
 
     <!--extras-->
     <project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1" />
