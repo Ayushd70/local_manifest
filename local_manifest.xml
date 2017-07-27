@@ -4,8 +4,7 @@
     <!-- device tree -->
     <project path="device/wingtech/wt88047" name="TeamDarkness-Devices/android_device_wingtech_wt88047" remote="github" revision="n-mr2" />
     <project path="device/cyanogen/msm8916-common" name="LineageOS/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
-    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-14.1" />
-
+    
     <!-- kernel -->
     <project path="kernel/wingtech/msm8916" name="Ayushd70/Warrior_redmi2" remote="github" revision="n" />
 
