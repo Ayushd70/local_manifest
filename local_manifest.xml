@@ -2,7 +2,7 @@
 <manifest>
 
     <!-- local -->
-    <project path="device/xiaomi/wt88047" name="Ayushd70/android_device_redmi2" remote="github" revision="du" />
+    <project path="device/xiaomi/wt88047" name="dirtyredmi2/device_redmi2" remote="github" revision="n7x-caf" />
     <project path="vendor/xiaomi" name="NeoDarkness/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
     
       
