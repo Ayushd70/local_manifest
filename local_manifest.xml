@@ -2,8 +2,8 @@
 <manifest>
 
     <!-- local -->
-    <project path="device/xiaomi/wt88047" name="dirtyredmi2/device_redmi2" remote="github" revision="n7x-caf" />
-    <project path="vendor/xiaomi" name="NeoDarkness/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
+    <project path="device/wingtech/wt88047" name="dirtyredmi2/device_redmi2" remote="github" revision="n7x-caf" />
+    <project path="vendor/wingtech" name="NeoDarkness/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
     
       
     <!-- Kernel -->
@@ -15,9 +15,9 @@
     <project path="packages/apps/FMRadio" name="DirtyUnicorns/android_packages_apps_FMRadio" remote="github" revision="n7x-caf" />
     
     <project path="hardware/qcom/fm" name="DirtyUnicorns/android_hardware_qcom_fm" remote="github" revision="n7x-caf" />
-    <project path="hardware/qcom/audio-caf" name="DirtyUnicorns/android_hardware_qcom_audio-caf" remote="github" revision="n7x-caf" />
-    <project path="hardware/qcom/display-caf" name="DirtyUnicorns/android_hardware_qcom_display-caf" remote="github" revision="n7x-caf" />
-    <project path="hardware/qcom/media-caf" name="DirtyUnicorns/android_hardware_qcom_media-caf" remote="github" revision="n7x-caf" />
+    <project path="hardware/qcom/audio" name="DirtyUnicorns/android_hardware_qcom_audio-caf" remote="github" revision="n7x-caf-8916" />
+    <project path="hardware/qcom/display" name="DirtyUnicorns/android_hardware_qcom_display-caf" remote="github" revision="n7x-caf-8916" />
+    <project path="hardware/qcom/mediaf" name="DirtyUnicorns/android_hardware_qcom_media-caf" remote="github" revision="n7x-caf-8916" />
     <project path="external/ant-wireless/antradio-library" name="DirtyUnicorns/android_external_ant-wireless_antradio-library" remote="github" revision="n7x-caf" />
     <project path="external/ant-wireless/ant_service" name="DirtyUnicorns/android_external_ant-wireless_ant_service" remote="github" revision="n7x-caf" />
     <project path="external/ant-wireless/ant_native" name="DirtyUnicorns/android_external_ant-wireless_ant_native" remote="github" revision="n7x-caf" />
