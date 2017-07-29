@@ -11,7 +11,7 @@
 
     <!-- DirtyUnicorns -->
     <project path="external/stlport" name="DirtyUnicorns/android_external_stlport" remote="github" revision="n7x-caf" />
-    <project path="device/qcom/sepolicy" name="DirtyUnicorns/android_device_qcom_caf-sepolicy" remote="github" revision="n7x-caf" />
+
     <project path="packages/apps/FMRadio" name="DirtyUnicorns/android_packages_apps_FMRadio" remote="github" revision="n7x-caf" />
     <project path="vendor/qcom/opensource/dataservices" name="DirtyUnicorns/vendor_qcom_opensource_dataservices" remote="github" revision="n7x-caf" />
     <project path="hardware/qcom/fm" name="DirtyUnicorns/android_hardware_qcom_fm" remote="github" revision="n7x-caf" />
