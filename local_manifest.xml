@@ -7,7 +7,7 @@
     
       
     <!-- Kernel -->
-    <project path="kernel/wingtech/msm8916" name="Ayushd70/Warrior_redmi2" remote="github" revision="n" />
+    <project path="kernel/wingtech/msm8916" name="Ayushd70/Warrior_redmi2" remote="github" revision="war" />
 
     <!-- DirtyUnicorns -->
     <project path="external/stlport" name="DirtyUnicorns/android_external_stlport" remote="github" revision="n7x-caf" />
