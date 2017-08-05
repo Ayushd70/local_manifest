@@ -3,7 +3,7 @@
 
     <!-- local -->
     <project path="device/wingtech/wt88047" name="dirtyredmi2/device_redmi2" remote="github" revision="n7x-caf" />
-    <project path="vendor/wingtech" name="TheMuppets/proprietary_vendor_wingtech" remote="github" revision="cm-14.1" />
+    <project path="vendor/wingtech" name="ssawrav/vendor_wingtech" remote="github" revision="n7.1" />
     
     
       
