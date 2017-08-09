@@ -1,19 +1,19 @@
-DirtyUnicorns For Xiaomi Redmi 2/Prime/Pro
+My Local Manifest for Xiaomi Redmi 2/Prime/Pro
 ======================================
 
 Initializing:
 
 First, create a folder to hold the source code: 
 
-	mkdir ~/du
+	mkdir ~/rom name
 
 Next, naviate into that new directory via the terminal:
 
-	cd ~/du
+	cd ~/rom anme
 
 To initialize your local repository using the Turbo ROM trees, use this command:
 
-	repo init -u http://github.com/DirtyUnicorns/android_manifest.git -b n7x-caf
+	repo init -u look at rom git -b ----
 
 Also add the local manifests:
 
@@ -21,7 +21,7 @@ Also add the local manifests:
 
 Then sync up with this command:
 
-	repo sync --force-sync
+	repo sync --force-sync 
 	
 You can make the 4 higher depending on how fast your internet connection is. 
 
@@ -32,7 +32,7 @@ _Building from source_
 
 First:
 
-	cd ~/du
+	cd ~/rom name
 
 Second:
 
@@ -42,4 +42,4 @@ Second:
 Third:
 
 	. build/envsetup.sh
-	brunch wt88047
+	brunch wt88047-userdebug {use whatever command u want}
